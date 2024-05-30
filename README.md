@@ -1,6 +1,6 @@
 # personal-portfolio
 My personal portfolio webpage;
- #Project Title 🚀
+#Project Title 🚀
 farhat sharefi Portfolio
 
 ## Project Description 📝
@@ -66,6 +66,7 @@ Replace repository with the name of the cloned repository
 2."Project tiles with hover effects for enhanced interactivity."
 3."Clear section organization (Welcome, Projects, About, Contact) for intuitive navigation."
 4."Responsive design ensuring accessibility across different devices and screen sizes."
+
 ## Author 👩‍💻
 [Linkedin](https://www.linkedin.com/in/farhat-sharefi-13a101309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Email](sharefifarhat@gmail.com)
