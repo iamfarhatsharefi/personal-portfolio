@@ -7,7 +7,7 @@ body {
   background-size: cover;
   color: white;
 }
-  
+
 nav {
   position: fixed;
   top: 0;
@@ -17,7 +17,7 @@ nav {
   padding: 10px 0;
   z-index: 1000;
 }
-  
+
 nav ul {
   list-style: none;
   display: flex;
@@ -25,22 +25,22 @@ nav ul {
   margin: 0;
   padding: 0;
 }
-  
+
 nav ul li {
   margin: 0 15px;
 }
-  
+
 nav ul li a {
   color: white;
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s;
 }
-  
+
 nav ul li a:hover {
   color: #f4f4f4;
 }
-  
+
 #welcome-section {
   height: 100vh;
   display: flex;
@@ -50,24 +50,24 @@ nav ul li a:hover {
   background: rgba(0, 0, 0, 0.5);
   padding: 0 20px;
 }
-  
+
 #welcome-section h1 {
   font-size: 3em;
   margin: 0;
 }
-  
+
 #projects, #about, #contact {
   padding: 50px 20px;
   background: rgba(0, 0, 0, 0.7);
   margin: 20px 0;
   border-radius: 10px;
 }
-  
+
 #projects h2, #about h2, #contact h2 {
   font-size: 2.5em;
   margin-bottom: 20px;
 }
-  
+
 .project-tile {
   border: 1px solid #333;
   padding: 20px;
@@ -79,15 +79,15 @@ nav ul li a:hover {
   background: rgba(255, 255, 255, 0.1);
   transition: transform 0.2s;
 }
-  
+
 .project-tile:hover {
   transform: scale(1.05);
 }
-  
+
 .project-tile h3 {
   margin: 10px 0;
 }
- 
+
 .project-tile a {
   color: white;
   text-decoration: none;
@@ -97,12 +97,12 @@ nav ul li a:hover {
   border-radius: 5px;
   transition: background-color 0.3s, border-color 0.3s;
 }
-  
+
 .project-tile a:hover {
   background-color: #555;
   border-color: #ddd;
 }
- 
+
 #contact a {
   display: block;
   margin: 10px 0;
@@ -114,23 +114,22 @@ nav ul li a:hover {
   border-radius: 5px;
   transition: background-color 0.3s, border-color 0.3s;
 }
- 
+
 #contact a:hover {
   background-color: #555;
   border-color: #ddd;
 }
-  
+
 @media (max-width: 600px) {
-    nav ul {
-      flex-direction: column;
-    }
+  nav ul {
+   flex-direction: column;
+  }
   
-    nav ul li {
-      margin: 10px 0;
-    }
+  nav ul li {
+    margin: 10px 0;
+  }
   
-    #welcome-section h1 {
-      font-size: 2.5em;
-    }
+  #welcome-section h1 {
+    font-size: 2.5em;
+  }
 }
-  
