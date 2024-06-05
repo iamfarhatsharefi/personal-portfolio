@@ -5,7 +5,7 @@ farhat sharefi Portfolio
 
 ## Project Description 📝
 
-"Farhat Sharefi's portfolio showcases a collection of projects, including a personal portfolio website and a technical documentation page. With a focus on simplicity and elegance, it provides a glimpse into Farhat's skills in web development and design."This page contains the HTML and CSS.
+"Farhat Sharefi's portfolio showcases a collection of projects, including a personal portfolio website and a technical documentation page. With a focus on simplicity and elegance, it provides a glimpse into Farhat's skills in web development and design."This personal portfolio webpage contains HTML and CSS.
 
 ## Demo 📸
 [Live Demo]( https://iamfarhatsharefi.github.io/personal-portfolio/)
